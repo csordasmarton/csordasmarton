@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello Everyone :wave:
 
-<!--
-**csordasmarton/csordasmarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marton Csordas and I am an experienced software developer from
+Hungary. I mainly code in *Python* and *Javascript* and currently I am working
+for Ericsson on the [CodeChecker](https://github.com/Ericsson/codechecker)
+open-source project.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=csordasmarton&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  </a>
+</p>
